@@ -6,7 +6,7 @@
 }
 
 body {
-    background: rgb(71, 71, 71);
+    background: green;
 }
 
 .container {
@@ -16,7 +16,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: white;
+    background: rgb(3, 235, 73);
     border-radius: 10px;
 }
 
