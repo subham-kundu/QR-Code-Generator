@@ -1,6 +1,6 @@
 # QR Code Generator
 
-Online QR Code Generator
+QR Code Generator Web App
 
 - Developed a QR Code Generator Web App using HTML, CSS and JavaScript.
 - Project Scope: To generate a QR Code based on the input given.
